@@ -1,3 +1,8 @@
 {
-  "stamps_list": []
+  "stamps_list": [
+    {
+      "id": "Google Safe Browsing",
+      "img": "/img/uploads/google-safe-browsing.png"
+    }
+  ]
 }
