@@ -1,26 +1,26 @@
 {
-  "store_id": 51440,
-  "name": "vloggerpoint",
   "domain": "vloggerpoint.netlify.app",
-  "short_name": "vloggerpoint",
-  "description": "vloggerpoint",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#4c3199",
   "theme": {
     "bootswatch": "_",
-    "custom": "_"
+    "custom": "ecom-beauty"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/vloggerpoint",
+  "logo": "/img/uploads/vlogger-point.webp",
+  "name": "Vlogger Point",
+  "short_name": "Vlogger Point",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR",
-  "repository": "ecomplus-stores/vloggerpoint",
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/icone-vloggerpoint.png",
   "icons_font": "_",
-  "font_family": "_"
+  "country_code": "BR",
+  "secondary_color": "#f5218b",
+  "icon": "/img/uploads/icone-vloggerpoint.png",
+  "store_id": 51440,
+  "description": "Vlogger Point",
+  "large_icon": "/img/uploads/icone-vloggerpoint.png"
 }
