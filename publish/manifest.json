@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6932e7f620a9f3430e7dfc96effb59a8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.2563e02d5791a14acdfd88bf29e772f5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.ce7acb9984f927506ba661088744a105.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.82b491336ed0f93bef6fa179eca52f94.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f5eb592fa8cb41d9a46eca1ca2f7aef6.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Vlogger Point",
+  "short_name": "Vlogger Point",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Vlogger Point",
+  "background_color": "#ffffff",
+  "theme_color": "#4c3199"
+}
