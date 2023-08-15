@@ -5,12 +5,12 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner.webp"
+          "img": "/img/uploads/image-1.png"
         }
       ]
     },
